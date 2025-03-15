@@ -1,15 +1,7 @@
 <p align="right"><img src="me.png" width="20"><strong>jiananlan:</strong> github 新建一个和自己昵称相同的仓库有什么用  </p>
 <hr style="border: 3px solid black;">
-<div style="
-    display: inline-block;
-    padding: 10px 15px;
-    background: #f0f0f0;
-    border-radius: 15px;
-    border: 1px solid #ccc;
-">
-    这是一个气泡文本
-</div>
-<img src="ds.png" width="20">Deepseek-R1:  
+
+<img src="ds.png" width="20"><strong>Deepseek-R1:  </strong>
 
 
 在 GitHub 上创建一个与你的昵称（用户名）完全相同的仓库（例如你的用户名为 `yourname`，仓库名也取 `yourname`）具有一些独特用途，以下是主要作用和好处：
