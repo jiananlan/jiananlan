@@ -1,7 +1,5 @@
 <p align="right"><img src="me.png" width="20">jiananlan:github 新建一个和自己昵称相同的仓库有什么用  </p>
-***  
-***  
-***  
+<hr style="border: 3px solid black;">
 
 <img src="ds.png" width="20">Deepseek-R1:  
 
