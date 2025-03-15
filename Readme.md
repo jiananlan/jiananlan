@@ -60,7 +60,7 @@
 
 通过这种方式，你可以更高效地展示个人品牌，吸引潜在合作或机会。
 
-<p align="center">👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇</p>
+<p align="center">👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 <table style="background-color: #474171; border: 0; cellspacing: 0; cellpadding: 0;">
     <tr>
         <td>
@@ -98,4 +98,4 @@
             </table>
         </td>
     </tr>
-</table>
+</table></p>
