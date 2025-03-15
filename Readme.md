@@ -2,7 +2,7 @@
 
 <img src="ds.png" width="20">Deepseek-R1:  
 
-
+```
 在 GitHub 上创建一个与你的昵称（用户名）完全相同的仓库（例如你的用户名为 `yourname`，仓库名也取 `yourname`）具有一些独特用途，以下是主要作用和好处：
 
 ---
@@ -58,3 +58,4 @@
 - [@sindresorhus](https://github.com/sindresorhus/sindresorhus)
 
 通过这种方式，你可以更高效地展示个人品牌，吸引潜在合作或机会。
+```
