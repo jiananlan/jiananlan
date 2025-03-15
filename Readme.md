@@ -60,3 +60,5 @@
 
 通过这种方式，你可以更高效地展示个人品牌，吸引潜在合作或机会。
 
+<p align="center">👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇</p>
+<CENTER><SCRIPT LANGUAGE='JavaScript' SRC='http://www.jetphotos.com/jp_forum_sign.php?photogid=251600' TYPE='text/javascript'></SCRIPT></CENTER>
