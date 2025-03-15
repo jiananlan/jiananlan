@@ -61,12 +61,13 @@
 通过这种方式，你可以更高效地展示个人品牌，吸引潜在合作或机会。
 
 <p align="center">👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
-<table style="background-color: #474171; border: 0; cellspacing: 0; cellpadding: 0;">
+</p>
+<table style="border: 0; cellspacing: 0; cellpadding: 0;">
     <tr>
-        <td>
-            <table width="165" style="background-color: #474171;">
+        <td style="background-color: #474171;">
+            <table width="165">
                 <tr>
-                    <td align="center">
+                    <td align="center" style="background-color: #474171;">
                         <a href="https://www.jetphotos.com/showphotos.php?ids=10273983,10891629,10532230,10338109,11124182" target="_blank">
                             <img src="sign-251600.gif" border="0">
                         </a>
@@ -74,22 +75,22 @@
                 </tr>
             </table>
         </td>
-        <td>
-            <table width="350" style="background-color: #474171;">
+        <td style="background-color: #474171;">
+            <table width="350">
                 <tr>
-                    <td align="center">
+                    <td align="center" style="background-color: #474171;">
                         <font size="3" face="verdana" color="white"><b>Anlanjian</b></font>
                     </td>
                 </tr>
                 <tr>
-                    <td align="center">
+                    <td align="center" style="background-color: #474171;">
                         <a href="https://www.jetphotos.com" target="_blank">
                             <img width="350" height="50" src="JPnetCL1.gif" border="0">
                         </a>
                     </td>
                 </tr>
                 <tr>
-                    <td align="center">
+                    <td align="center" style="background-color: #474171;">
                         <a href="https://www.jetphotos.com/photographer/251600" target="_blank">
                             <font size="2" face="verdana" color="white"><u>Click here to view my 347 photos.</u></font>
                         </a>
@@ -98,4 +99,5 @@
             </table>
         </td>
     </tr>
-</table></p>
+</table>
+
