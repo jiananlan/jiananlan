@@ -1,5 +1,5 @@
 <p align="right"><img src="me.png" width="20"><strong>jiananlan:</strong> github 新建一个和自己昵称相同的仓库有什么用  </p>
-<p align="center">这是居中的文本</p>
+<p align="center">👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇</p>
 
 <img src="ds.png" width="20"><strong>Deepseek-R1:  </strong>
 
