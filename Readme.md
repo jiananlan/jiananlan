@@ -13,7 +13,7 @@
 
 ## ✈️ Interests
 - Badminton 🏸  
-- Aviation photography 📷  
+- Aviation photography 📷 ([<img src="https://raw.githubusercontent.com/jiananlan/jiananlan/refs/heads/main/jp.ico" alt="plane" width="20" height="20">](https://www.jetphotos.com/photographer/251600)Jetphotos uploader)  
 - Flight simulation (A320/A330 series, proud *keyboard captain* 🛫)  
 - Formula 1 🏎️
 
