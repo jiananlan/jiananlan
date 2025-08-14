@@ -1,4 +1,4 @@
-# Hi, I'm Jiananlan 👋
+# Hi, I'm <img src="https://raw.githubusercontent.com/jiananlan/jiananlan/refs/heads/main/me.png" alt="plane" width="20" height="20">Jiananlan 👋
 
 🎓 Undergrad @ HNU, Applied Physics  
 💻 Full-stack developer & aspiring computational physicist  
