@@ -1,6 +1,6 @@
 # Hi, I'm <img src="https://raw.githubusercontent.com/jiananlan/jiananlan/refs/heads/main/me.png" alt="plane" width="20" height="20">Jiananlan 👋
 
-🎓 Undergrad @ HNU, Applied Physics  
+🎓 Undergrad <img src="https://raw.githubusercontent.com/jiananlan/jiananlan/refs/heads/main/hnu-logo.png" alt="plane" width="20" height="20"> HNU, Applied Physics  
 💻 Full-stack developer & aspiring computational physicist  
 🌱 Currently exploring AI + Web automation + scientific computing  
 🎯 Goal: Build tools that are simple, powerful, and fun to use
