@@ -19,7 +19,7 @@ Goal: Build tools that are simple, powerful, and fun to use
 
 ## Featured Projects
 - [AI Web Dev Automation](https://github.com/yourusername/project1) — 自动化构建和部署 Django 网站  
-- [Aviation Photo Gallery](https://github.com/yourusername/project2) — 航空摄影图片管理与展示平台  
+- [CuteNewWebDeveloper/ CuteNew_gallery](https://github.com/CuteNewWebDeveloper/CuteNew_gallery) — [航空摄影图库](https://cutenewwebdeveloper.github.io/CuteNew_gallery/)  
 - [Stock Pair Trading Backtest](https://github.com/yourusername/project3) — 基于统计套利的回测工具  
 
 ---
