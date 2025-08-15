@@ -12,7 +12,7 @@ Creating software to make university life easier for myself and others
 - **Languages**: Python, JavaScript, HTML/CSS, SQL  
 - **Frameworks**: Django, Flask, PyTorch  
 - **Tools**: Git, Docker, MongoDB, Selenium  
-- **Others**: LAMMPS (beginner level)
+- **Others**: LAMMPS
 
 ## Interests
 - Badminton  
