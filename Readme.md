@@ -9,7 +9,7 @@ Goal: Build tools that are simple, powerful, and fun to use;
 ----->Create software to make university life easier for myself and others.  
 
 ## Tech Stack
-- **Languages**: Python, JavaScript, HTML/CSS, SQL  
+- **Languages**: Python, JavaScript, HTML/CSS, SQL, Pascal, C++, C, Golang  
 - **Frameworks**: Django, Flask, PyTorch  
 - **Tools**: Git, Docker, MongoDB, Selenium  
 - **Physics-related**: LAMMPS & more  
