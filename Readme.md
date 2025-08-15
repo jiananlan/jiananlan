@@ -6,7 +6,7 @@ Undergrad [<img src="https://raw.githubusercontent.com/jiananlan/jiananlan/refs/
 Full-stack developer & aspiring computational physicist  
 Currently exploring AI agents + Web automation + scientific computing  
 Goal: Build tools that are simple, powerful, and fun to use;  
-      Create software to make university life easier for myself and others  
+------Create software to make university life easier for myself and others.  
 
 ## Tech Stack
 - **Languages**: Python, JavaScript, HTML/CSS, SQL  
