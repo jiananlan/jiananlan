@@ -22,7 +22,7 @@ Goal: Build tools that are simple, powerful, and fun to use;
 
 ## Featured Projects
 - [jiananlan/ PDFreformertool](https://github.com/jiananlan/PDFreformertool) — PDF文档翻译并重排版软件，支持利用llm-api进行翻译 (v2 is coming soon~)    
-- [CuteNewWebDeveloper/ CuteNew_gallery](https://github.com/CuteNewWebDeveloper/CuteNew_gallery) — [<img src="https://raw.githubusercontent.com/CuteNewWebDeveloper/CuteNew_gallery/refs/heads/main/docs/favicon.ico" alt="plane" width="20" height="20">](https://cutenewwebdeveloper.github.io/CuteNew_gallery/)航空摄影图库  
+- [CuteNewWebDeveloper/ CuteNew_gallery](https://github.com/CuteNewWebDeveloper/CuteNew_gallery) — [<img src="https://raw.githubusercontent.com/CuteNewWebDeveloper/CuteNew_gallery/refs/heads/main/docs/favicon.ico" alt="plane" width="20" height="20">](https://cutenewwebdeveloper.github.io/CuteNew_gallery/)航空摄影图库————利用github action更新静态网页  
 - [Stock Pair Trading Backtest](https://github.com/yourusername/project3) — 基于统计套利的回测工具  
 
 ---
